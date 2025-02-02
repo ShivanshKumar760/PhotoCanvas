@@ -29,7 +29,8 @@
     "react-native-svg": "15.8.0",
     "react-native-view-shot": "~4.0.3",
     "expo-file-system": "~18.0.8",
-    "expo-linear-gradient": "~14.0.2"
+    "expo-linear-gradient": "~14.0.2",
+    "expo-updates": "~0.26.15"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
